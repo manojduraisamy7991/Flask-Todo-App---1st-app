@@ -1,0 +1,11 @@
+# ignore all .pyc files
+*.pyc
+
+# ignore the virtual environment folder
+venv/
+
+# ignore the log files
+logs/
+
+# ignore the tests folder
+tests/
